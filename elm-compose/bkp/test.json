@@ -1,0 +1,16 @@
+{
+  "_source": {
+    "item_description": "This is a computer",
+    "item_title": "computer",
+    "color": ["Red", "Yellow", "Green"],
+    "city_name": "London",
+    "specifications": [
+      { "name": "finish", "value": "matt" },
+      { "name": "finish", "value": "glossy" },
+      { "name": "look", "value": "stylish" }
+    ],
+    "spec_name": "finish",
+    "spec_value": "gloss",
+    "modification_time": "2021-04-30T05:09:12.000Z"
+  }
+}
